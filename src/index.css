@@ -8,43 +8,43 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 248 250 252;
-    --foreground: 210 40% 8%;
+    --background: 0 0% 100%;
+    --foreground: 222 84% 5%;
 
     --card: 0 0% 100%;
-    --card-foreground: 210 40% 8%;
+    --card-foreground: 222 84% 5%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 210 40% 8%;
+    --popover-foreground: 222 84% 5%;
 
     --primary: 217 91% 60%;
     --primary-foreground: 0 0% 98%;
 
     --secondary: 210 40% 96%;
-    --secondary-foreground: 210 40% 8%;
+    --secondary-foreground: 222 84% 5%;
 
-    --muted: 215 25% 96%;
-    --muted-foreground: 210 15% 55%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
 
     --accent: 210 40% 96%;
-    --accent-foreground: 210 40% 8%;
+    --accent-foreground: 222 84% 5%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 215 25% 88%;
-    --input: 215 25% 88%;
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
     --ring: 217 91% 60%;
 
     --legal-primary: 217 91% 60%;
-    --legal-secondary: 210 40% 20%;
-    --legal-accent: 45 100% 51%;
-    --legal-surface: 210 40% 98%;
-    --legal-border: 215 25% 88%;
+    --legal-secondary: 222 84% 5%;
+    --legal-accent: 217 91% 60%;
+    --legal-surface: 0 0% 98%;
+    --legal-border: 214 32% 91%;
     
-    --gradient-legal: linear-gradient(135deg, hsl(217 91% 60%), hsl(210 40% 20%));
+    --gradient-legal: linear-gradient(135deg, hsl(217 91% 60%), hsl(222 84% 5%));
     --shadow-legal: 0 10px 30px -10px hsl(217 91% 60% / 0.2);
-    --shadow-elegant: 0 4px 20px -2px hsl(210 40% 8% / 0.08);
+    --shadow-elegant: 0 4px 20px -2px hsl(222 84% 5% / 0.08);
 
     --radius: 0.5rem;
 
